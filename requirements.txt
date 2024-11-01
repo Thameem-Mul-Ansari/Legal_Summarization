@@ -1,0 +1,7 @@
+os
+streamlit
+PyMuPDF
+langchain-groq
+pillow
+python-dotenv
+fpdf
