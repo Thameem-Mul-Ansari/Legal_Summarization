@@ -1,5 +1,0 @@
-# Ignore environment variable files
-.env
-
-# Ignore the env folder
-env/
