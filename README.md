@@ -42,11 +42,7 @@ streamlit run app.py
 5. Access the Application
 Open your browser and go to http://localhost:8501.
 
-Usage
-Upload a Document: Drag and drop a PDF legal document into the upload area.
-Choose Summary Type: Select from predefined options like Narrative Deposition or Trial Summary.
-Generate Summary: Click the appropriate button to process the document and generate a summary.
-Download Summary: Save the generated summary as a PDF file.
+
 Project Structure
 plaintext
 Copy code
@@ -71,6 +67,12 @@ Predictive analytics for case outcomes based on legal document data.
 Improved customization of summary formats for specialized use cases.
 Contributions
 Contributions are welcome! Please follow these steps:
+
+#Usage
+Upload a Document: Drag and drop a PDF legal document into the upload area.
+Choose Summary Type: Select from predefined options like Narrative Deposition or Trial Summary.
+Generate Summary: Click the appropriate button to process the document and generate a summary.
+Download Summary: Save the generated summary as a PDF file.
 
 Fork the repository.
 Create a new branch (git checkout -b feature-branch).
