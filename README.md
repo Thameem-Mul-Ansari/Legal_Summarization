@@ -95,5 +95,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For inquiries, reach out via:
-- Email: yourname@example.com
-- GitHub: [Your GitHub Profile](https://github.com/yourusername)
+- Email: thameemmulansaris@gmail.com
+- GitHub: https://github.com/Thameem-Mul-Ansari
