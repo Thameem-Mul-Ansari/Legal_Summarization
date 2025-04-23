@@ -10,4 +10,4 @@ def display_pdf_content(uploaded_file):
         page = doc.load_page(page_num)
         pix = page.get_pixmap()
         img = Image.open(io.BytesIO(pix.tobytes()))
-        st.image(img, caption=f"Page {page_num + 1}", use_column_width=True)
+        st.image(img, caption=f"Page {page_num + 1}", use_container_width=True)
