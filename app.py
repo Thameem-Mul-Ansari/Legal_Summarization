@@ -21,7 +21,7 @@ if not GROQ_API_KEY:
     st.stop()
 
 with st.sidebar:
-    st.image("assets/background.gif", use_column_width=True)
+    st.image("assets/background.gif", use_container_width=True)
     st.subheader("Select Summary Type")
 
     uploaded_file = st.file_uploader("Upload your legal document (PDF)", type="pdf")
